@@ -1,2 +1,1 @@
-# Chore_Door
-JS
+# JS_Game_door
